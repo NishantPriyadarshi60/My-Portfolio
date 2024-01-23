@@ -1,0 +1,15 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "CodesWords",
+        "startDate": "Oct, 2022",
+        "endDate": "April, 2023",
+        "experiences": [
+            "Created a cross-platform On-Demand Delivery App forstreamlined order processing and real-time tracking",
+            "Gained hands - on experience in mern stack development, API design, and user-focused solutions in a dynamic, fast-paced environment",
+            "Reduced load times by 50%"
+        ],
+        "imageSrc": "history/c.png"
+    }
+  
+]
