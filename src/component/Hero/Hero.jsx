@@ -11,7 +11,7 @@ const Hero = () => {
                 <p className={styles.description}>
                     I am 21 years old and I am software developer who loves to learn new technologies.I started to learn code in mid of 2022. I started with JavaScript and Mastered it then i started web development
                 </p>
-                <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+                <a href="mailto:priyadarshinishant063@gmail.com" className={styles.contactBtn}>
                     Contact Me
                 </a>
             </div>
