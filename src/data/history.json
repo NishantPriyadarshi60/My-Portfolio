@@ -1,15 +1,23 @@
 [
-    {
-        "role": "Software Engineer",
-        "organisation": "CodesWords",
-        "startDate": "Oct, 2022",
-        "endDate": "April, 2023",
-        "experiences": [
-            "Created a cross-platform On-Demand Delivery App forstreamlined order processing and real-time tracking",
-            "Gained hands - on experience in mern stack development, API design, and user-focused solutions in a dynamic, fast-paced environment",
-            "Reduced load times by 50%"
-        ],
-        "imageSrc": "history/c.png"
-    }
-  
+  {
+    "role": "Software Engineer",
+    "organisation": "IndiCorp IT Solutions Pvt. Ltd",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Designed and managed dual CRM systems (OPR for international, LPR for domestic) with role-based authentication, AI-integrated DMS, and full procurement lifecycle support including RFQs, POs, invoices, and vendor coordination."
+    ],
+    "imageSrc": "history/Indicop_logo.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "CodesWords",
+    "startDate": "Jan, 2024",
+    "endDate": "Jan, 2025",
+    "experiences": [
+      "Engineered a cross-platform On-Demand Delivery App,reducing order processing errors by 20% and improving real-time tracking accuracy",
+      "Responsibilities included UI development, order management, geolocation integration, push notiﬁcations,and secure payment gateways."
+    ],
+    "imageSrc": "history/c.png"
+  }
 ]

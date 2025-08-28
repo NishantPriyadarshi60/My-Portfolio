@@ -12,8 +12,20 @@
         "imageSrc": "skills/javascript.png"
     },
     {
+        "title": "Next JS",
+        "imageSrc": "skills/nextjs.png"
+    },
+    {
         "title": "Node",
         "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "Express JS",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "Express JS",
+        "imageSrc": "skills/expressjs.png"
     },
     {
         "title": "React",
@@ -22,5 +34,13 @@
     {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "Tailwind CSS",
+        "imageSrc": "skills/tailwind.png"
     }
 ]
